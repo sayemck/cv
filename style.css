@@ -1,0 +1,364 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+}
+.wrapper{
+	margin: 0;
+}
+.header{
+	/*border:2px solid red;*/
+	display: inline-block;
+	width: 38%;
+	height:300px;
+
+}
+.name{
+	/*border:2px solid green;*/
+	width:510px;
+	height:300px;
+
+}
+img{
+	border-radius: 50%;
+	margin-left: 190px;
+}
+.name h3{
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.name h1{
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.name p{
+	text-align: center;
+	margin-top: 5px;
+}
+
+.header2{
+	/*border:2px solid red;*/
+	display: inline-block;
+	width:61.4%;
+	height:480px;
+	float: right;
+
+}
+.education{
+	/*border: 2px solid red;*/
+	height: 480px;
+}
+.education img{
+	position: absolute;
+	margin-left:4px;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+.education h1{
+	font-size: 22px;
+	font-family: normal;
+	font-weight: bold;
+	color: blue;
+	margin-top: 5px;
+	margin-left: 50px;
+	margin-bottom: 4px;
+}
+.education li{
+	font-size: 14px;
+	font-family: normal;
+	font-weight: bold;
+	color: blue;
+	margin-top: 4px;
+}
+
+.date{
+	font-size:14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	position: absolute;
+	left:700px;
+	top:42px;
+}
+.date1{
+	font-size:14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	position: absolute;
+	left:700px;
+	top:135px;
+}
+.date2{
+	font-size:14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	position: absolute;
+	left:700px;
+	top:228px;
+}
+.date3{
+	font-size:14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	position: absolute;
+	left:700px;
+	top:318px;
+}
+.education h4{
+	font-size: 14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	margin-bottom: 4px;
+}
+.education p{
+	font-family: normal;
+	margin-top: 4px;
+
+}
+.content{
+	/*border: 2px solid green;*/
+	display: inline-block;
+	width: 38%;
+	position: absolute;
+	left:0px;
+	top: 306px;
+}
+.profile{
+	/*border: 2px solid red;*/
+	display: inline-block;
+	width:510px;
+	height: 300px;
+}
+.profile img{
+	position: absolute;
+	margin-left:4px;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+.profile h1{
+	color: blue;
+	font-size: 24px;
+	font-family: sans-serif;
+	margin-top: 4px;
+	margin-left:50px;
+
+}
+.content2{
+	/*border: 2px solid red;*/
+	display: inline-block;
+	width:61.4%;
+	float: right;
+}
+.experience{
+	/*border: 2px solid red;*/
+	display: inline-block;
+	width: 825px;
+	height: 350px;
+}
+.experience img{
+	position: absolute;
+	margin-left:4px;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+.service{
+	/*border: 2px solid red;*/
+	display: inline-block;
+	width: 38%;
+	position: absolute;
+	left: 0px;
+	top: 614px;
+}
+.experience h1{
+	font-size: 22px;
+	font-family: normal;
+	font-weight: bold;
+	color: blue;
+	margin-left: 50px;
+	margin-top: 5px;
+	margin-bottom: 4px;
+}
+.experience li{
+	font-size: 14px;
+	font-family: normal;
+	font-weight: bold;
+	color: blue;
+	margin-top: 4px;
+}
+
+.date4{
+	font-size:14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	position: absolute;
+	left:700px;
+	top:522px;
+
+
+}
+.date5{
+	font-size:14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	position: absolute;
+	left:700px;
+	top:612px;
+}
+.date6{
+	font-size:14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	position: absolute;
+	left:700px;
+	top:706px;
+}
+.experience h4{
+	font-size: 14px;
+	font-family: normal;
+	font-weight: bold;
+	margin-top:4px;
+	margin-bottom: 4px;
+
+
+}
+.experience p{
+	font-family: normal;
+	margin-top: 4px;
+
+}
+.contact{
+	/*border:2px solid green;*/
+	width:510px;
+	height:200px;
+}
+.contact img{
+	position: absolute;
+	margin-left:4px;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+.contact h1{
+	font-size: 22px;
+	font-family: normal;
+	font-weight: bold;
+	color: blue;
+	margin-top: 5px;
+	margin-left:50px;
+	margin-bottom: 4px;
+}
+.contact h3{
+	position:absolute;
+	font-size: 14px;
+	font-family: normal;
+	font-weight: bold;
+	color: blue;
+	margin-top:14px;
+}
+.contact p{
+	margin-left: 90px;
+	margin-top:16px;
+	margin-bottom: 5px;
+}
+.service2{
+	/*border: 2px solid red;*/
+	display: inline-block;
+	width: 61.4%;
+	float:right;
+}
+.software{
+	/*border:2px solid red;*/
+	width: 825px;
+	height:302px;
+
+}
+.software img{
+	position: absolute;
+	margin-left:4px;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+.software2{
+	/*border: 2px solid green;*/
+	display: inline-block;
+	width: 200px;
+}
+.software3{
+	/*border: 2px solid green;*/
+	display: inline-block;
+	width: 200px;
+	/*float: right;*/
+}
+
+.software h1{
+	font-size: 22px;
+	font-family: normal;
+	font-weight: bold;
+	color: blue;
+	margin-left: 50px;
+	margin-top: 5px;
+	margin-bottom:20px;
+}
+.border{
+	/*border: 2px solid blue;*/
+	width: 150px;
+	height: 8px;
+	background:blue;
+
+}
+.footer{
+	/*border: 2px solid red;*/
+	display: inline-block;
+	width: 38%;
+	position: absolute;
+	left: 0px;
+	top: 818px;
+}
+.skills{
+	/*border:2px solid green;*/
+	width:510px;
+	height:310px;
+
+}
+.skills img{
+	position: absolute;
+	margin-left:4px;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+}
+
+.skills h1{
+	font-size: 22px;
+	font-family: normal;
+	font-weight: bold;
+	color: blue;
+	margin-top: 5px;
+	margin-left: 50px;
+	margin-bottom: 4px;
+}
+.skills h3{
+	margin-left:100px;
+	margin-top: 8px;
+	margin-bottom: 4px;
+
+}
+.dotted{
+	border: 4px dotted blue;
+	border-radius: 4px;
+	width: 170px;
+	margin-left: 90px;
+}
